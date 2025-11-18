@@ -11,7 +11,7 @@ In this first section you will explore:
 -   the principles of responsible metrics;
 -   guidelines around the responsible use of metrics.
 
-### **What are metrics?** HAYLEY
+### **What are metrics?** HA
 
 Metrics are a quantitative snapshot of how research outputs perform. A research output is anything which disseminates research; for instance a journal article, a book, an exhibition or software. Metrics can look at one research output, at the outputs from a single researcher, or at the entire output of a department or University. Other metrics indicate the relevance and quality of a venue, such as a journal, but these are not appropriate indicators to use as a proxy to assess an individual or their output. The majority of metrics primarily focus on journal articles but metrics may be available for other research output types.
 
