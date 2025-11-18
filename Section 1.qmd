@@ -3,7 +3,7 @@ title: "Section 1"
 format: html
 ---
 
-## Section 1 - Responsible research metrics overview
+## Section 1 - Responsible research metrics overview HAYLEY
 
 In this first section you will explore:
 
